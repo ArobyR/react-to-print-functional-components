@@ -1,6 +1,6 @@
 # Library tutorial react to print using functional components
 
-Hi there! in this repo I'll teach you one away to use react to print using functional components. 
+Hi there! in this repo I'll teach you one way to use react to print using functional components. 
 
 ### 1. first step:
   Creating our react app:
@@ -54,7 +54,7 @@ Hi there! in this repo I'll teach you one away to use react to print using funct
 
   Ref forwarding is an opt-in feature that lets some components take a ref they receive, and pass it further down (in other words, “forward” it) to a child.
 
-  I recommend read more about it in: [Oficial Documentation]('https://reactjs.org/docs/forwarding-refs.html#gatsby-focus-wrapper) and [Stack Overflow]('https://stackoverflow.com/questions/66664209/how-can-i-use-forwardref-in-react').
+  I recommend read more about it in: [Oficial Documentation](https://reactjs.org/docs/forwarding-refs.html#gatsby-focus-wrapper) and [Stack Overflow](https://stackoverflow.com/questions/66664209/how-can-i-use-forwardref-in-react).
 
 ### 3. Third step:
   Calling from functional components
