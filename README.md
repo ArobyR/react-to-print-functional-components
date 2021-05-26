@@ -13,7 +13,7 @@ Hi there! in this repo I'll teach you one way to use react to print using functi
     
     $ yarn add react
 
-  Download the React to print dependency:
+  Download and install the React to print dependency:
 
     $ npm i -D react-to-print
 
